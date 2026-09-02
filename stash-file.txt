@@ -1,0 +1,3 @@
+changes saved temporarily in stash
+second change before stash
+Now I am working on the stash file again
